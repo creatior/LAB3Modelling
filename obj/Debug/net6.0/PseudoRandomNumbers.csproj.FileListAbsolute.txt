@@ -1,0 +1,15 @@
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\bin\Debug\net6.0\PseudoRandomNumbers.exe
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\bin\Debug\net6.0\PseudoRandomNumbers.deps.json
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\bin\Debug\net6.0\PseudoRandomNumbers.runtimeconfig.json
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\bin\Debug\net6.0\PseudoRandomNumbers.dll
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\bin\Debug\net6.0\PseudoRandomNumbers.pdb
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\PseudoRandomNumbers.csproj.AssemblyReference.cache
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\PseudoRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\PseudoRandomNumbers.AssemblyInfoInputs.cache
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\PseudoRandomNumbers.AssemblyInfo.cs
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\PseudoRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\PseudoRandomNumbers.dll
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\refint\PseudoRandomNumbers.dll
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\PseudoRandomNumbers.pdb
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\PseudoRandomNumbers.genruntimeconfig.cache
+C:\Users\varte\Desktop\c+++\c#\PseudoRandomNumbers\obj\Debug\net6.0\ref\PseudoRandomNumbers.dll
